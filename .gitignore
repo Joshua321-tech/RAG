@@ -1,0 +1,10 @@
+# RAG
+a repositary created for understanding RAG basics 
+# ignore the venv directory
+venv/
+# ignore the .vscode directory
+.vscode/
+# ignore the .idea directory
+.idea/
+# ignore the .env file
+.env
